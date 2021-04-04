@@ -1,3 +1,8 @@
+/**
+* Write a program to accept a number from the user and generate all the twin prime numbers from 2 to n.
+* [Write 2 functions, one for checking a number is prime or not another to generate twin prime numbers.
+*/
+
 import java.util.Scanner;
 
 class prime_twinprime
