@@ -1,3 +1,7 @@
+/**
+* Write a program to print the even numbers from 1 to n. And their squares, where n is provided by the user
+*/
+
 import java.util.Scanner;
 import java.lang.Math;
 public class even_evensquared {
