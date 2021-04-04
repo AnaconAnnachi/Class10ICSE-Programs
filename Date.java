@@ -1,3 +1,22 @@
+/**
+* Define a class Date with the following data members and member methods
+
+* Class Name : Date
+
+Data Members:
+* Int dd : integer value to store Day
+* Int mm : integer value to store Month
+* Int yy : integer value to store year (1900 <= yy <=2100)
+
+* Member Methods:
+* void input()	: Accept dd,mm and yy from the user
+* void validate()	:Check weather the date is validv
+		dd <= 31 when mm is 1,3,5,7,8,10,12
+		dd  <=30 when mm is 4, 6,9,11
+		dd  <= 28 when mm is 2 and yy is not divisible by 4
+                        dd  <= 29 when mm is 2 and yy is divisible by 4
+*/
+
 package functions;
 import java.util.Scanner;
 public class Date {
