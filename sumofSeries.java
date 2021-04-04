@@ -1,3 +1,9 @@
+/**
+* Write a program to compute and display the sum of the following series:-
+* 1+2/1X2+1+2+3/1X2X3+1+2+3+4/1X2X3X4+1+2+3+4/1X2X3X4+ . ……  1+2+3+4+ ... n/1X2X3X4X .... n
+* Use separate functions for denominator and numerator.
+*/
+
 import java.util.Scanner;
 
 public class sumofSeries {
