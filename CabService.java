@@ -1,3 +1,25 @@
+/**
+* Design a class CabService with the following
+* Member variables / data members
+* String car_Type  : To store the type of car (AC or NON AC)
+* double km    : to store the kilometer travelled
+* double bill   : to calculate and store the bill amount
+
+* Member methods:
+* CabService ()  - Default constructor to initialize data members string data members to “” and double data members to  0.0
+* void accept () - to accept car_type and km (Using Scanner class only)
+* void calculate () - to calculate the bill as per the rules given.
+* void display () - display the bill format
+*	CAR TYPE  :
+*	KILOMETER TRAVELLED : 
+*	TOTAL BILL :
+			AC			NON AC
+* UPTO 5 KM		Rs. 150/-		Rs.120/-
+* Beyond 5 KM		Rs.10/- Per KM	Rs. 8/- Per KM
+
+* Create a main method and invoke the member functions.
+*/
+
 import java.util.Scanner;
 
 public class CabService
