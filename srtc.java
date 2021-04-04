@@ -1,3 +1,10 @@
+/**
+* Define a class with 3 void functions with the name area
+* with 1 parameter which can calculate area of square
+* with 2 integer parameters you calculate area of rectangle
+* with one integer and double value (PI Value = 3.14) calculate the area of circle.
+*/
+
 import java.util.Scanner;
  class srtc
 {
